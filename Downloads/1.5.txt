@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2> Level-1 (5) </h2>
+
+<p>This is a program to pop up an alert message box on clicking the button .</p>
+
+<button onclick="myFunction()">CLICK ME</button>
+
+<script>
+function myFunction() {
+  alert("Hello!! \n This is an Alert Box.");
+}
+</script>
+
+</body>
+</html>

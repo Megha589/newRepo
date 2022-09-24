@@ -1,0 +1,66 @@
+
+/* element  */
+/* h2{
+    background-color: aquamarine;
+} 
+group
+h1,p,h2{
+    color: rgb(255, 145, 0);
+}  */
+
+
+/* generic/class
+.name{
+    font-family:monospace;
+    background-color: bisque;
+}
+/* class with group */
+/* .name h1{
+    color: rgb(117, 209, 179);
+} */ */
+
+/* id# */
+/* #box1{
+    background-color: darkcyan;
+    font-weight:bolder;
+}
+#box2{
+    background-color: chartreuse;
+    color: rgb(94, 133, 120);
+} */
+
+/* *{
+    background-color: rgb(189, 201, 130);
+} */
+
+#box1{
+    background-color: aquamarine;
+}
+#box2{
+    background-color: rgba(128, 255, 0, 0.252);
+    color: rgb(94, 133, 120);
+    /* border: 8px double rgb(172, 154, 133); */
+    border-top: 10px solid brown;
+    border-bottom: 10px dotted black;
+    border-left: 10px dashed purple;
+    border-right: 10px double rgb(130, 184, 245);
+}
+#box3{
+    background-color: antiquewhite;
+    font-weight:bolder;
+    border: 8px double rgb(172, 154, 133);= 
+    padding: 20px;
+    margin: 90px;
+    margin-right: 1000px;
+
+}
+#box4{
+    background-color: rgba(142, 195, 89, 0.379);
+    color: rgb(74, 100, 91); 
+    border: 10px double rgb(221, 61, 239);
+    margin: 90px;
+    margin-right: 1000px;
+    outline:8px solid rgb(197, 19, 19);
+    outline-offset: 15px;
+}
+
